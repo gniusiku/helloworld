@@ -9,4 +9,4 @@ I know a little Java and C++ as well as html ,css,php,javascript and I am still 
 I like acting and music and performing and attention and sometimes games
 I have many interests too many from cyberpsychology to song writing
 I have been told that I am dynamic
-The changes here are going to be  minimal I am a beginner in programming 
+The changes here are going to be  minimal 
